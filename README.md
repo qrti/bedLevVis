@@ -4,7 +4,7 @@
 
 ## How to
 
-- install/upgrade matplotlip, regex and numpy  
+- install/upgrade matplotlib, regex and numpy  
 (in some cases wheel has to be installed manually)
 ```
 (pip install --upgrade pip setuptools wheel)
