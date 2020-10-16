@@ -1,4 +1,4 @@
-# **Hotbed Level Visualizer**
+# **Heatbed Level Visualizer**
 
 <br>
 
@@ -18,7 +18,7 @@ pip install numpy
 M420 V
 ```
 - copy and paste mesh/matrix data to raw variable in this program (carefully keep the formatting)
-- set variables for bedform, bedsize, inset, zrange for your hotbed
+- set variables for bedform, bedsize, inset, zrange for your heatbed
 - execute program
 
 <br>

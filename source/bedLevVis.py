@@ -1,11 +1,11 @@
 # bedLevVis.py V0.9 201016 qrt@qland.de
-# hotbed level visualizer 
+# heatbed level visualizer 
 #
 # retrieve the stored mesh/matrix data (octoprint terminal)
 # M420 V
 #
 # copy and paste mesh/matrix data to raw variable in this program (carefully keep the formatting)
-# set the variables for bedform, bedsize, inset, zrange for your hotbed
+# set the variables for bedform, bedsize, inset, zrange for your heatbed
 
 from mpl_toolkits import mplot3d    # (pip install --upgrade pip setuptools wheel)
                                     # pip install --upgrade matplotlib
